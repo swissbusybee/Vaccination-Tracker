@@ -1,7 +1,10 @@
 .prototype-img {
   display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  margin-top: 10px;
 }
 
 .prototype-img img {
-  height: 200px;
+  height: 320px;
 }
