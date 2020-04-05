@@ -1,0 +1,7 @@
+.prototype-img {
+  display: flex;
+}
+
+.prototype-img img {
+  height: 200px;
+}
